@@ -2,7 +2,7 @@
 # 🤖 Think_AI_Bot - Smart Virtual Assistant  
 
 ## 📌 Overview  
-This Think.ai Chatbot is a powerful virtual assistant built using **React.js, Node.js, and OpenAI API**. It helps users by providing intelligent responses, improving customer interactions, and automating tasks.  
+This Think.ai Chatbot is a powerful virtual assistant built using **React.js, Node.js, and Gemini API**. It helps users by providing intelligent responses, improving customer interactions, and automating tasks.  
 
 ## 🚀 Features  
 - ✅ **NLP-Based Responses** - Uses Gemini API for natural conversation.  
