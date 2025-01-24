@@ -20,7 +20,7 @@ This Think.ai Chatbot is a powerful virtual assistant built using **React.js, No
 ## 📦 Installation  
 Clone the repository:  
 ```sh
-git clone [https://github.com/NKhairnar203/Think_AI_Bot]
+git clone https://github.com/NKhairnar203/Think_AI_Bot
 cd Think_AI_Bot
 ```
 ## 🔧 Backend Setup (Node.js + Express.js)
@@ -74,7 +74,7 @@ npm run dev
 
 
 ## 🎯 How to Use
- - Open the web app this link - [https://thinkai-bot.vercel.app/]  .
+ - Open the web app this link - https://thinkai-bot.vercel.app/ .
  - register or Login and start
  - Enter a query in the chatbox.
  - Get an instant AI-powered response.
